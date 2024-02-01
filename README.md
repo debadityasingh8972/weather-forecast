@@ -7,8 +7,6 @@ This is a single-page weather forecast application designed to provide users wit
   
 - **5-Day Forecast:** The application displays a 5-day forecast for the selected city, showing the date, average temperature, description of the weather, and appropriate weather icons.
   
-- **Unit Conversion:** Users can toggle between Celsius and Fahrenheit units for temperature display.
-  
 - **Responsive Design:** The application is designed to be responsive and look good on both desktop and mobile devices.
 
 ## Technologies Used
@@ -31,6 +29,6 @@ This is a single-page weather forecast application designed to provide users wit
 
 ## Credits
 
-This project was created by Debadity for Mirrar.
+This project was created by [Debaditya](https://www.linkedin.com/in/debaditya-singh-402846198/) for [Mirrar](https://www.mirrar.com/).
 
 
